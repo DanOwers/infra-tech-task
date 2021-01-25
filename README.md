@@ -38,9 +38,9 @@ The application started from the command line will be available on port 8080. En
 
  -  After deployment, application main endpoint should be available from the internet; 
 
- -  You can assume whatever pre-existing infrastructure in the AWS account you’d want (e.g. network infrastructure, CDNs, container clusters, IAM roles), but make sure to document those assumptions; 
+ -  You can assume whatever **pre-existing infrastructure** in the AWS account you’d want (e.g. network infrastructure, CDNs, container clusters, IAM roles), but make sure to document those assumptions; 
 
- -  Document all trade-offs and decisions and what are the steps missing to make this deployment production-ready;
+ -  Document all trade-offs and decisions and what are the steps missing to make this deployment **production-ready**;
 
  -  Answer is expected to be at least partially in Cloudformation; 
 
