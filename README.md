@@ -11,9 +11,9 @@ Developers finished the first version a RESTful application, and it’s now read
 <br/>
  
 
-We do expect this application to expand a lot in the next few months, both in features and number of requests.  T
+We do expect this application to expand a lot in the next few months, both in features and number of requests.  
 
-he application doesn’t yet require any external datastorage. 
+The application doesn’t yet require any external datastorage. 
 
 <br/>
 
